@@ -7,6 +7,4 @@ Last Update: 27th September, 2024
 ## Current Status: Finished
 
 ## Notes--
-- be sure "customtkinter" is installed.
-- Pandas is installed
-- create a directory called 'Files' in main directory, and move 'data.csv', 'history.csv', 'exit_image.png' and 'view_data.csv' files into it
+- The executable can be found in the 'full_app' folder. just clone that directory, and you will be able to use the app right away!
