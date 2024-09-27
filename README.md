@@ -2,10 +2,11 @@
 Simple to do list  
 
 Date Created: 10th August, 2024  
-Last Update: 10th August, 2024  
+Last Update: 27th September, 2024  
 
-## Current Status: Unfinished
+## Current Status: Finished
 
 ## Notes--
-- be sure "customtkinter" is installed.  
-- create a directory called 'Files' in main directory, and move 'data.csv' and 'view_data.csv' files into it
+- be sure "customtkinter" is installed.
+- Pandas is installed
+- create a directory called 'Files' in main directory, and move 'data.csv', 'history.csv' and 'view_data.csv' files into it
