@@ -9,4 +9,4 @@ Last Update: 27th September, 2024
 ## Notes--
 - be sure "customtkinter" is installed.
 - Pandas is installed
-- create a directory called 'Files' in main directory, and move 'data.csv', 'history.csv' and 'view_data.csv' files into it
+- create a directory called 'Files' in main directory, and move 'data.csv', 'history.csv', 'exit_image.png' and 'view_data.csv' files into it
